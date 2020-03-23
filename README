@@ -1,4 +1,5 @@
 RedLine URL path (pattern): /IRemotePanel.
+IClientChannel channel = (IClientChannel) (object) new ChannelFactory<T>((Binding) Service<T>.binding).CreateChannel(new EndpointAddress("http://" + Service<T>.RemoteIP + ":6677/IRemotePanel"));
 
 RedLine Default port: 6677
 195.123.240.50:6677/IRemotePanel
