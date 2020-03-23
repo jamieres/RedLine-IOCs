@@ -1,0 +1,12 @@
+RedLine URL path (pattern): /IRemotePanel.
+
+RedLine Default port: 6677
+195.123.240.50:6677/IRemotePanel
+promo-usa.info:6677/IRemotePanel
+
+  *** "6677" is default port but it canbe configurated for run in other port:
+      81.177.140.199:53622/IRemoteClient
+
+RedLine socket (service):  195.123.240.50:6677 -> RedLineService Служба
+
+MalwareIntelligence CRIPRO-ID: 5e55a0e62d67100010744cca [Redline Stealer]
